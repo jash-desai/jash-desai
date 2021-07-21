@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com**
 <!-- - ⚡ Fun fact: ... -->
+
+<h3 align="left">Connect with me ;) </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jade13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="jade13" height="30" width="40" /></a>
+<a href="https://instagram.com/_jade13._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="40" /></a>
+ </p>

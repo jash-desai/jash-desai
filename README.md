@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com**
+- 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com** or **jashkdesai@gmail.com**
 <!-- - ⚡ Fun fact: ... -->
 
 <h3 align="left">Connect with me ;) </h3>

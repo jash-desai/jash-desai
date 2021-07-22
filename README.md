@@ -38,8 +38,5 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7c6xab7lm55hf7xlgukk1fyxi&cover_image=true&theme=novatorem)](https://open.spotify.com/user/7c6xab7lm55hf7xlgukk1fyxi)
 
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=insta-clone" alt="jash-desai" /></p>](github.com/jash-desai/insta-clone) -->
-</p>
 
-<!-- ![Jash Desai](https://github.com/jash-desai/jash-desai/edit/main/bottom-footer.svg) -->
-<br>
-</p>
+[![Streak Stats -> ](https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true)](https://github.com/jash-desai/)

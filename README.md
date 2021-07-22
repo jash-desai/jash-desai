@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey there! 👋, I'm Jash Desai !! </h1>
 
 
@@ -40,3 +41,8 @@
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=insta-clone" alt="jash-desai" /></p>](github.com/jash-desai/insta-clone) -->
 
 [![Streak Stats -> ](https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true)](https://github.com/jash-desai/)
+<p>
+</br>
+<img src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=ff4da6&height=300&section=footer&text=See%20You%20Later!&fontSize=90) -->
+</br>

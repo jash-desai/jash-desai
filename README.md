@@ -40,6 +40,6 @@
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=insta-clone" alt="jash-desai" /></p>](github.com/jash-desai/insta-clone) -->
 </p>
 
-![Jash Desai](https://github.com/jash-desai/jash-desai/edit/main/bottom-footer.svg)
+<!-- ![Jash Desai](https://github.com/jash-desai/jash-desai/edit/main/bottom-footer.svg) -->
 <br>
 </p>

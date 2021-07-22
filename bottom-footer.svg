@@ -23,7 +23,7 @@ svg {
 #wave2 {
   animation-duration:5s;
   animation-direction: reverse;
-  opacity: .6
+  opacity: .5
 }
 #wave3 {
   animation-duration: 7s;

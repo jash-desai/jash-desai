@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Jash Desai
+<!-- ### Hi there 👋, I'm Jash Desai -->
+<h1 align="center">Hi 👋, I'm Jash Desai !! </h1>
+
 
 <!--
 **jash-desai/jash-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

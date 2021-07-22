@@ -1,5 +1,5 @@
 
-<h1 align="middle">Hey there! 👋, I'm Jash Desai !! </h1>
+<h1 align="middle">Hey there!👋🏻, I'm Jash Desai !! </h1>
 
 
 <!--
@@ -9,14 +9,13 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
  
 - 🔭 I’m currently working on **Flutter Projects.**
-<!-- -  -->
 - 🌱 I’m currently learning **C++, Flutter and WebDev.**
 - 🤔 I’m looking for help with **OpenSource and CP.**
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with  -->
-<!-- - 💬 Ask me about -->
 - 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com** or **jashkdesai@gmail.com**
-<!-- - ⚡ Fun fact: -->
+- ⚡ Fun fact: If you find an account with [Labyrinth](https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg) as the profile pic and a ' ●!!● ' symbol, it's definitely me!
+<!-- - 👯 I’m looking to collaborate on 
+<!-- - 💬 Ask me about -->
+<!--  -->
 
 <h3 align="left">Connect with me ;) </h3>
 <p align="left">

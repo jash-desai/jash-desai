@@ -4,16 +4,17 @@
 
 <!--
 **jash-desai/jash-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
+ 
 - 🔭 I’m currently working on **Flutter Projects.**
 - 🌱 I’m currently learning **C++, Flutter and WebDev.**
 <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 🤔 I’m looking for help with  -->
+<!-- - 💬 Ask me about -->
 - 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com** or **jashkdesai@gmail.com**
-<!-- - ⚡ Fun fact: ... -->
+<!-- - ⚡ Fun fact: -->
 
 <h3 align="left">Connect with me ;) </h3>
 <p align="left">

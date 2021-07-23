@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **C++, Flutter and WebDev.**
 - 🤔 I’m looking for help with **OpenSource and CP.**
 - 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com** or **jashkdesai@gmail.com**
-- ⚡ Fun fact: If you find an account with [Labyrinth](https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg) and a ●!!●, it's definitely me!
+- ⚡ Fun fact: If you find an account with [Labyrinth](https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg) and a •!!•, it's definitely me!
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
 <!--  -->

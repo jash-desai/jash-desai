@@ -36,7 +36,7 @@
  
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /></p>
  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7c6xab7lm55hf7xlgukk1fyxi&cover_image=true&theme=novatorem)](https://open.spotify.com/user/7c6xab7lm55hf7xlgukk1fyxi)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=insta-clone" alt="jash-desai" /></p>](github.com/jash-desai/insta-clone) -->
 

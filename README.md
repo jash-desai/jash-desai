@@ -1,5 +1,5 @@
 
-<h1 align="middle">Hey there!👋🏻, I'm Jash Desai !! </h1>
+<h1 align="middle"> Hey there!👋🏻, I'm Jash Desai !! </h1>
 
 
 <!--
@@ -15,13 +15,15 @@
 - ⚡ Fun fact: If you find an account with [Labyrinth](https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg) and a •!!•, it's definitely me!
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
-<!--  -->
-
-<h3 align="left">Connect with me ;) </h3>
+<details>
+<summary>
+ <font size="18"> Connect with me: </font>
+ </summary>
 <p align="left">
 <a href="https://www.linkedin.com/in/jade13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="jade13" height="30" width="40" /></a>  &nbsp;
 <a href="https://instagram.com/_jade13._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="40" /></a>  &nbsp;
  </p>
+ </details>
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,12 +40,24 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /></p>
  
  [![Now Playiing -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
+ 
+ <p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&row=7&margin-w=10&no-bg=false&no-frame=true"/>
+ </a>
+ </p>
 
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=insta-clone" alt="jash-desai" /></p>](github.com/jash-desai/insta-clone) -->
 
-<p align="center"><img align="middle" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"></p>
+<p><img src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"></p>
 
 </br>
+
+<!-- <h3>Programmer's Quote of the Day:</h3>
+
+[![A bit of quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+ -->
+
 <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=ff4da6&height=300&section=footer&text=See%20You%20Later!&fontSize=90) -->
 </br>

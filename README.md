@@ -15,15 +15,12 @@
 - ⚡ Fun fact: If you find an account with [Labyrinth](https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg) and a •!!•, it's definitely me!
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
-<details>
-<summary>
- <font size="18"> Connect with me: </font>
- </summary>
+<h3> Connect with me: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jade13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="jade13" height="30" width="40" /></a>  &nbsp;
 <a href="https://instagram.com/_jade13._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="40" /></a>  &nbsp;
  </p>
- </details>
+
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

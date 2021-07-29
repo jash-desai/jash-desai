@@ -43,7 +43,7 @@
  </a>
  </p>
 
-[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai)
+<!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) -->
 
 <p><img src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"></p>
 

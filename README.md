@@ -4,11 +4,12 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
 </br>
  
-- 🔭 I’m currently working on **Flutter Projects.**
-- 🌱 I’m currently learning **C++, Flutter and WebDev.**
-- 🤔 I’m looking for help with **OpenSource and CP.**
-- 📫 How to reach me: Mail me at : **jash.13.desai@gmail.com** or **jashkdesai@gmail.com**
-- ⚡ Fun fact: If you find an account with [Labyrinth](https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg) and a •!!•, it's definitely me!
+<h3> A bit of Intro: </h3>
+- 🔭 I’m currently working on <b>Flutter Projects.</b> </br>
+- 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
+- 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>
+- 📫 How to reach me: Mail me at : <b>jash.13.desai@gmail.com</b> or <b>jashkdesai@gmail.com</b></br>
+- ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a •!!•, it's definitely me!</br>
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
 

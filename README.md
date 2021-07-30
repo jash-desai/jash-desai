@@ -44,16 +44,17 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;
 
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />
+ <h3>GitHub Stats:</h3>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /> 
  
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />  &nbsp;
  
+<img src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=5&margin-w=5&no-bg=false&no-frame=true"/>
+
  [![Spotify Flex -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
  
  <p>
- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&row=7&margin-w=10&no-bg=false&no-frame=true"/>
- </a>
+ 
  </p>
 
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) -->

@@ -28,7 +28,7 @@
   <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
 </a>
 <a href="https://github.com/jash-desai">
-  <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/github_original.svg" />
+  <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/github.svg" />
 </a>
 <a href="http://discordapp.com/users/776025704818671637">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />

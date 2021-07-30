@@ -28,6 +28,9 @@
 <a href="http://discordapp.com/users/776025704818671637">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />
 </a>
+<a href="https://www.facebook.com/jash.x.desai.13/">
+  <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
+</a>
 </br>
  
 <h3>Languages and Tools:</h3>

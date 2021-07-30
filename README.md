@@ -1,6 +1,12 @@
-<h1 align="middle"> Hey there!👋🏻, I'm Jash Desai !! </h1>
+<h1 align="middle"> Hey there!👋🏻, I'm <a href="https://github.com/jash-desai">
+  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
+</a> </h1>
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
+<!-- <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p> -->
+<!-- <a href="https://github.com/jash-desai">
+  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
+</a> -->
+
 <h3> A bit of Intro: </h3>
 - 🔭 I’m currently working on <b>Flutter Projects.</b> </br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>

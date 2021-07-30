@@ -59,6 +59,7 @@
 [![A bit of quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
  -->
 
+<!-- <img align="center" width="30px" src ="https://www.learninpublic.org/duck.svg" > -->
 <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=ff4da6&height=300&section=footer&text=See%20You%20Later!&fontSize=90) -->
 </br>

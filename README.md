@@ -48,8 +48,10 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /> 
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />
- 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=5&margin-w=5&no-bg=false&no-frame=true"/>
+ </br>
+ <p>
+<img src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=5&margin-w=5&no-bg=false&no-frame=true"/>
+</p>
 
  [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
  

@@ -14,19 +14,19 @@
 
 <h3> Connect with me: </h3>
 <a href="https://www.linkedin.com/in/jade13/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
 </a>
 <a href="https://instagram.com/_jade13._" target="blank">
  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="30" />
 </a>
 <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
-  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
 </a>
 <a href="https://github.com/jash-desai">
-  <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/master/assets/github.svg" />
+  <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/github.svg" />
 </a>
 <a href="http://discordapp.com/users/776025704818671637">
-  <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />
 </a>
 </br>
  

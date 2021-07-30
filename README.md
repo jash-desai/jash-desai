@@ -1,7 +1,6 @@
 
 <h1 align="middle"> Hey there!👋🏻, I'm Jash Desai !! </h1>
 
-
 <!--
 **jash-desai/jash-desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -18,8 +17,12 @@
 <!-- - 💬 Ask me about -->
 
 <h3> Connect with me: </h3>
-<a href="https://www.linkedin.com/in/jade13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="jade13" height="30" width="40" /></a>  &nbsp;
-<a href="https://instagram.com/_jade13._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="40" /></a>  &nbsp;
+<a href="https://www.linkedin.com/in/jade13/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://instagram.com/_jade13._" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="40" />
+</a>  &nbsp;
 
  
 <h3>Languages and Tools:</h3>

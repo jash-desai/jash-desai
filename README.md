@@ -36,6 +36,12 @@
 <a href="https://www.facebook.com/jash.x.desai.13/">
   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
 </a>
+<!-- <a href="">
+  <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codechef.svg" />
+</a>
+<a href="">
+  <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codeforces.svg" />
+</a> -->
 </br>
  
 <h3>Languages and Tools:</h3>

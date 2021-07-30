@@ -42,15 +42,15 @@
 
  
  <h3>GitHub Stats:</h3>
+
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /> 
- 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />
+  
+[![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
+  
+<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=3&margin-w=5&no-bg=false&no-frame=true"/>
  
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=5&margin-w=5&no-bg=false&no-frame=true"/></p>
-
-<p><img src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"></p>
-
- [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) -->
 

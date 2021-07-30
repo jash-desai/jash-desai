@@ -6,8 +6,9 @@
 <!-- <a href="https://github.com/jash-desai">
   <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
 </a> -->
+<!-- [![IntroText](https://readme-typing-svg.herokuapp.com?font=arial&color=FF5784&size=20&lines=Here's+my+Intro%3A)](https://git.io/typing-svg) -->
 
-<h3> A bit of Intro: </h3>
+<h3> Here's my Intro: </h3>
 - 🔭 I’m currently working on <b>Flutter Projects.</b> </br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>

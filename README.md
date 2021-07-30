@@ -1,9 +1,6 @@
-
 <h1 align="middle"> Hey there!👋🏻, I'm Jash Desai !! </h1>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
-</br>
- 
 <h3> A bit of Intro: </h3>
 - 🔭 I’m currently working on <b>Flutter Projects.</b> </br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
@@ -49,7 +46,7 @@
  
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />
  
-<p><img src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=5&margin-w=5&no-bg=false&no-frame=true"/></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=5&margin-w=5&no-bg=false&no-frame=true"/></p>
 
 <p><img src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"></p>
 

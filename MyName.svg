@@ -16,7 +16,7 @@
         .snowflake {
           color: #fff;
           font-size: 1em;
-          font-family: Arial;
+          font-family: Neon;
           text-shadow: 0 0 1px #000;
         }
 				h1 {

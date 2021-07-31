@@ -62,7 +62,7 @@
   
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
   
-<!-- <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"> -->
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true">
 
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=3&margin-w=5&no-bg=false&no-frame=true"/> -->
  

@@ -21,8 +21,8 @@
 <a href="https://www.linkedin.com/in/jade13/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/_jade13._" target="blank">
- <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="_jade13._" height="30" width="30" />
+<a href="https://instagram.com/_jade13._">
+ <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
   <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />

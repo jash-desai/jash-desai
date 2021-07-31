@@ -46,12 +46,13 @@
  
 <h3>Languages and Tools:</h3>
 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  &nbsp;
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  &nbsp;
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  &nbsp;
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  &nbsp;
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;
+<a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  &nbsp;
+<a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  &nbsp;
+<a href="https://firebase.google.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  &nbsp;
+<a href="https://flutter.dev"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  &nbsp;
+<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;
+<a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/visualstudio_code-icon.svg" alt="vs-code" width="40" height="40"/> </a>  &nbsp;
 
  
  <h3>GitHub Stats:</h3>

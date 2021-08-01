@@ -63,8 +63,8 @@
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 </br>
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true">
-</br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hide_border=true" alt="Dev Jokes"></a>
+<!-- </br></br></br> -->
+<!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hide_border=true" alt="Dev Jokes"></a> -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hide_border=true) -->
 
 

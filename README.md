@@ -49,7 +49,7 @@
 </br></br>
 
 
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" width="40px"> `Tech Stack:`
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" width="38px"> `Tech Stack:`
 
 <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/c-original.svg" alt="c" width="40"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/cplusplus-original.svg" alt="cplusplus" width="40"/> </a>  &nbsp;

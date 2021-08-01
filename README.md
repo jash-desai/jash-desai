@@ -3,17 +3,17 @@
 </a> </h1>
 
 <!-- <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p> -->
-<!-- <a href="https://github.com/jash-desai">
-  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
-</a> -->
-<!-- [![IntroText](https://readme-typing-svg.herokuapp.com?font=arial&color=FF5784&size=20&lines=Here's+my+Intro%3A)](https://git.io/typing-svg) -->
 
-<h3> Here's my Intro: </h3>
+<img align="right" width="200px"  src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+
+<img align="left" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> `Here's my Intro:`
 - 🔭 I’m currently working on <b>Flutter Projects.</b> </br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>
 - 📫 How to reach me: Mail me at : <b>jash.13.desai@gmail.com</b> or <b>jashkdesai@gmail.com</b></br>
 - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a •!!•, it's definitely me!</br>
+
+
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
 
@@ -56,9 +56,12 @@
 
  
  <h3>GitHub Stats:</h3>
+ 
+<!--  <img align="right"src="" alt="jash-desai" width="150"> -->
+ 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" width="410" />
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /> 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" />
   
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 </br>

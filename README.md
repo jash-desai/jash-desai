@@ -1,5 +1,6 @@
+&emsp;&ensp;<img align="" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/earth.gif">&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;<img align="" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/earth.gif">
 <h1 align="center"> Hey there!👋🏻, I'm </br><a href="https://github.com/jash-desai">
- <img align ="left" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/earth.gif"> &nbsp; <img align="center" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg"> &nbsp; <img width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/earth.gif">
+ <img width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/earth.gif"><img src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg"><img width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/earth.gif">
 </a> </h1>
 
 <!-- <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p> -->

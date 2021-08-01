@@ -20,21 +20,27 @@
 ### 🤝🏻 &ensp; `Wanna Connect? I'm here:`
 <a href="https://www.linkedin.com/in/jade13/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
+<!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
 <a href="https://instagram.com/_jade13._">
  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg" />
+<!--   <img align="left" alt="LinkedIn" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->
 </a>
 <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
   <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
+<!--   <img align="left" alt="LinkedIn" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
 </a>
 <a href="https://github.com/jash-desai">
-  <img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/github_original.svg" />
+<!--   <img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/github_original.svg" /> -->
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/github.webp" />
 </a>
 <a href="http://discordapp.com/users/776025704818671637">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />
+<!--   <img align="left" alt="LinkedIn" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.gif" /> -->
 </a>
 <a href="https://www.facebook.com/jash.x.desai.13/">
   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
+<!--   <img align="left" alt="LinkedIn" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.gif" /> -->
 </a>
 <a href="mailto:jash.13.desai@gmail.com"/>
   <img align="left" alt="Google Mail" width="33px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/gmail.svg" />
@@ -52,13 +58,28 @@
 
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" width="38px"> `Tech Stack:`
 
-<a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/c-original.svg" alt="c" width="40"/> </a> &nbsp;
-<a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/cplusplus-original.svg" alt="cplusplus" width="40"/> </a>  &nbsp;
-<a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="40"/> </a>  &nbsp;
-<a href="https://firebase.google.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/firebase-icon.svg" alt="firebase" width="40"/> </a>  &nbsp;
-<a href="https://flutter.dev"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/flutterio-icon.svg" alt="flutter" width="40"/> </a>  &nbsp;
-<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="40"/> </a>  &nbsp;
-<a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/visualstudio_code-icon.svg" alt="vs-code" width="40"/> </a>  &nbsp;
+<a href="https://www.cprogramming.com/">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/c-original.svg" alt="c" width="40"/>
+</a>
+<a href="https://www.w3schools.com/cpp/">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/cplusplus-original.svg" alt="cplusplus" width="40"/>
+</a>
+<a href="https://dart.dev">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="40"/>
+</a>
+<a href="https://firebase.google.com/">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/firebase-icon.svg" alt="firebase" width="40"/>
+</a>
+<a href="https://flutter.dev">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/flutterio-icon.svg" alt="flutter" width="40"/>
+</a>
+<a href="https://git-scm.com/">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="40"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/vs-code.webp" />
+  <!--   <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/visualstudio_code-icon.svg" alt="vs-code" width="40"/>  -->
+</a>
 </br></br>
  
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/graph-up.gif" width="38px"> `GitHub Stats:`

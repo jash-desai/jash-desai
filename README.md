@@ -54,7 +54,7 @@
 </br></br>
 
 
-<img align="right" width="250"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif">
+<img align="right" width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif">
 
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" width="38px"> `Tech Stack:`
 

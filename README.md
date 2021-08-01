@@ -7,7 +7,7 @@
 
 <img align="right" width="220px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dots.gif">
 
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="40px"> `Here's my Intro:` 
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px"> `Here's my Intro:` 
 - 🔭  I’m currently working on <b>Flutter Projects.</b></br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>

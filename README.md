@@ -14,6 +14,9 @@
 - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a •!!•, it's definitely me!</br></br>
 
 
+
+<img align="right" width="400"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/doge.gif">
+
 ### 🤝🏻 `Wanna Connect? I'm here:`
 <a href="https://www.linkedin.com/in/jade13/">
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
@@ -57,14 +60,14 @@
 </br></br>
  
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/graph-up.gif" width="40px"> `GitHub Stats:`
-</br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" width="410" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="180"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="180" />
+<img align="right" width="150"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
+<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" height="180" >
 
-  
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
-</br>
-<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true">
+
+
 <!-- </br></br></br> -->
 <!-- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hide_border=true" alt="Dev Jokes"></a> -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hide_border=true) -->

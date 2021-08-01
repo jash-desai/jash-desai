@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on <b>Flutter Projects.</b> </br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>
-- 📫 How to reach me: Mail me at : <b>jash.13.desai@gmail.com</b> or <b>jashkdesai@gmail.com</b></br>
+- 📫 How to reach me: Mail me at : <b><a href="mailto:jash.13.desai@gmail.com">jash.13.desai@gmail.com</a></b> or <b><a href="mailto:jashkdesai@gmail.com">jashkdesai@gmail.com</a></b></br>
 - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a •!!•, it's definitely me!</br>
 <!-- - 👯 I’m looking to collaborate on 
 <!-- - 💬 Ask me about -->
@@ -63,6 +63,8 @@
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9"> <img align="left" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/play-button.svg"> </a>
 <!-- <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"> -->
+  
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true">
 
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=3&margin-w=5&no-bg=false&no-frame=true"/> -->
  

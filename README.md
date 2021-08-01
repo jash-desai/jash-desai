@@ -16,7 +16,7 @@
 
 
 
-<img align="right" width="400"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/doge.gif">
+<img align="right" width="200"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/doge.gif">
 
 ### 🤝🏻 `Wanna Connect? I'm here:`
 <a href="https://www.linkedin.com/in/jade13/">

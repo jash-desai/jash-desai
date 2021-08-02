@@ -6,7 +6,7 @@
 
 <img align="right" width="220px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dots.gif">
 
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px"> `Here's my Intro:` 
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" > `Here's my Intro:` 
 - 🔭  I’m currently working on <b>Flutter Projects.</b></br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>
@@ -25,7 +25,7 @@
 <!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
 <a href="https://instagram.com/_jade13._">
- <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg" />
+ <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg"/>
 <!--   <img align="left" alt="LinkedIn" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->
 </a>
 <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">

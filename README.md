@@ -102,7 +102,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/jash-desai/count.svg) -->
 <!-- <hr> -->
 
-<a href="github.com/jash-desai"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23ff4da6"></a>
+<a href="github.com/jash-desai"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23ffc0cb"></a>
 
 <!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=3&margin-w=5&no-bg=false&no-frame=true"/> -->
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) -->

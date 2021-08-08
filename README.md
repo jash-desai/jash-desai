@@ -1,8 +1,9 @@
 <h1 align="center"> Hey there!👋🏻,</br> I'm.. </br><a href="https://github.com/jash-desai">
-<img src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
+<img src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg"></br>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p>
 </a> </h1>
 
-<!-- <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=ff4da6&style=plastic" alt="jash-desai" /> </p> -->
+
 
 <img align="right" width="220px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dots.gif">
 

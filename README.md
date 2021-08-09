@@ -97,21 +97,13 @@
 </br>
 </br>
 
-<!-- <hr>
-## Thank you for visiting my profile. You're a gem. :gem:
-![Visitor Count](https://profile-counter.glitch.me/jash-desai/count.svg) -->
-<!-- <hr> -->
-
-<a href="https://github.com/jash-desai/"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23db7093&aColor=%23ff91a4"></a>
-
-<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=jash-desai&theme=dracula&row=1&column=3&margin-w=5&no-bg=false&no-frame=true"/> -->
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) -->
 
-<!-- <h3>Programmer's Quote of the Day:</h3>
-[![A bit of quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
- -->
+<!-- ### Programmer's Quote of the Day: -->
+<!-- [![A bit of quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
-<!-- <img align="center" width="30px" src ="https://www.learninpublic.org/duck.svg" > -->
+<!-- <a href="https://github.com/jash-desai/"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23db7093&aColor=%23ff91a4"></a> -->
+
 <a href="https://github.com/jash-desai">
   <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>

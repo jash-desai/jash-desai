@@ -93,8 +93,6 @@
 
 <a href="https://github.com/jash-desai"><img alt="Jash Desai's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" /></a>
 </br>
-</br>
-
 <!-- [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) -->
 
 <!-- ### Programmer's Quote of the Day: -->

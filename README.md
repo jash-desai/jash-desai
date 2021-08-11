@@ -93,11 +93,8 @@
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" height="180" >
 
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
-<<<<<<< HEAD
 <!-- <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9"> <img align="center" width="50" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/play-button.svg"> </a> -->
 <!-- <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true"> -->
-=======
->>>>>>> 4e2c7c849911b3b542f8ea1693159c0940f62fe3
 
 <a href="https://github.com/jash-desai"><img alt="Jash Desai's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" /></a>
 </br>

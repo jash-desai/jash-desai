@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>
 - 📫 How to reach me: Mail me at <b>jash.13.desai@gmail.com</b>.</br>
+- ✨ Here's my <a href = "https://profile-summary-for-github.com/user/jash-desai" />Profile Summary</a> have a look!
 - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a •!!•, it's definitely me!</br></br>
 
 

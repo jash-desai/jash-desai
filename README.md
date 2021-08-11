@@ -44,9 +44,6 @@
   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
 <!--   <img align="left" alt="LinkedIn" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.gif" /> -->
 </a>
-<a href="mailto:jash.13.desai@gmail.com"/>
-  <img align="left" alt="Google Mail" width="33px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/gmail.svg" />
-</a>
 <!-- <a href=""> -->
 <!--   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codechef.svg" /> -->
 <!-- </a> -->

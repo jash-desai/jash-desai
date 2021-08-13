@@ -26,26 +26,26 @@
 </a>
 <a href="https://instagram.com/_jade13._">
  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg"/>
-<!--   <img align="left" alt="LinkedIn" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->
-</a>
-<a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
-  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
-<!--   <img align="left" alt="LinkedIn" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
+<!--   <img align="left" alt="Instagram" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->
 </a>
 <a href="http://discordapp.com/users/776025704818671637">
   <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />
-<!--   <img align="left" alt="LinkedIn" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.gif" /> -->
+<!--   <img align="left" alt="Discord" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.gif" /> -->
 </a>
 <a href="https://www.facebook.com/jash.x.desai.13/">
   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
-<!--   <img align="left" alt="LinkedIn" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.gif" /> -->
+<!--   <img align="left" alt="Facebook" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.gif" /> -->
 </a>
 <!-- <a href=""> -->
-<!--   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codechef.svg" /> -->
+<!--   <img align="left" alt="Codechef" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codechef.svg" /> -->
 <!-- </a> -->
 <!-- <a href=""> -->
-<!--   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codeforces.svg" /> -->
+<!--   <img align="left" alt="Codeforces" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codeforces.svg" /> -->
 <!-- </a> -->
+<a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
+  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
+<!--   <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
+</a>
 </br></br>
 
 

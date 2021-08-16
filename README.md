@@ -73,7 +73,7 @@
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="40"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/vs-code.webp" />
+  <img align="left" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/vs-code.webp" />
   <!--   <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/visualstudio_code-icon.svg" alt="vs-code" width="40"/>  -->
 </a>
 </br></br>

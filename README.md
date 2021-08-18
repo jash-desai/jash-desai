@@ -4,8 +4,8 @@
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash-desai" /></p>
 </a></h1>
 
+<!-- Introduction Points with GIF -->
 <img align="right" width="220px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dots.gif">
-
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" > `Here's my Intro:` 
 - 🔭  I’m currently working on <b>Flutter Projects.</b></br>
 - 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
@@ -14,12 +14,11 @@
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/jash-desai" />Profile Summary</a> have a look!
 - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a •!!•, it's definitely me!</br></br>
 
-
-
+<!-- Extra GIFs -->
 <!-- <img align="right" width="250"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/doge.gif"> -->
-
 <!-- <img align="right" width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif"> -->
 
+<!-- Social Media Handles' Links-->
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 <!-- ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/handshake.gif" width="38px" > `Wanna Connect? I'm here:` -->
 <a href="https://www.linkedin.com/in/jade13/">
@@ -44,7 +43,10 @@
 <!-- <a href=""> -->
 <!--   <img align="left" alt="Codeforces" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codeforces.svg" /> -->
 <!-- </a> -->
-<a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
+
+<!-- Spotify Realtime Template! -->
+<a>
+<!-- <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9"> -->
   <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
 <!--   <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
 </a>

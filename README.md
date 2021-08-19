@@ -8,7 +8,7 @@
 
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" > `Here's my Intro:` 
 - 🔭  I’m currently working on <b>Flutter Projects.</b></br>
-- 🌱 I’m currently learning <b>C++, Flutter and WebDev.</b></br>
+- 🌱 I’m currently learning <b>C++, Java, Flutter and WebDev.</b></br>
 - 🤔 I’m looking for help with <b>OpenSource and CP.</b></br>
 - 📫 How to reach me: Mail me at <b>jash.13.desai@gmail.com</b>.</br>
 - ✨ Here's my <a href = "https://profile-summary-for-github.com/user/jash-desai" />Profile Summary</a> have a look!

@@ -80,8 +80,8 @@
 </br></br>
  
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/graph-up.gif" width="38px"> `GitHub Stats:`
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="140"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="140" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150" />
 <img align="right" width="120"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" height="140" >
 

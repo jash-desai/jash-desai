@@ -83,8 +83,8 @@
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/graph-up.gif" width="38px"> `GitHub Stats:`
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150" />
-<img align="right" width="150"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
-<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" height="160" >
+<img align="right" width="130"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
+<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" height="150" >
 
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 <!-- <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9"> <img align="center" width="50" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/play-button.svg"> </a> -->

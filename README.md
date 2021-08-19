@@ -61,6 +61,9 @@
 <a href="https://www.w3schools.com/cpp/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/cplusplus-original.svg" alt="cplusplus" width="40"/>
 </a>
+<a href="https://java.com/en/">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/java-icon.svg" alt="dart" width="40"/>
+</a>
 <a href="https://dart.dev">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="40"/>
 </a>

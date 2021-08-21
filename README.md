@@ -45,7 +45,7 @@
 <!-- </a> -->
 <a>
 <!-- <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9"> -->
-  <img align="left" alt="Spotify" width="25px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
 <!--   <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
 </a>
 </br></br>

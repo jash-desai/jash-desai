@@ -22,19 +22,19 @@
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
 <!-- ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/handshake.gif" width="38px" > `Wanna Connect? I'm here:` -->
 <a href="https://www.linkedin.com/in/jade13/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
 <!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
 <a href="https://instagram.com/_jade13._">
- <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg"/>
+ <img align="left" alt="Instagram" width="20px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg"/>
 <!--   <img align="left" alt="Instagram" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->
 </a>
 <a href="http://discordapp.com/users/776025704818671637">
-  <img align="left" alt="Discord" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />
+  <img align="left" alt="Discord" width="20px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.svg" />
 <!--   <img align="left" alt="Discord" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.gif" /> -->
 </a>
 <a href="https://www.facebook.com/jash.x.desai.13/">
-  <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
+  <img align="left" alt="Facebook" width="20px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
 <!--   <img align="left" alt="Facebook" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.gif" /> -->
 </a>
 <!-- <a href=""> -->
@@ -45,7 +45,7 @@
 <!-- </a> -->
 <a>
 <!-- <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9"> -->
-  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="20px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
 <!--   <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
 </a>
 </br></br>

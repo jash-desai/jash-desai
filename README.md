@@ -25,6 +25,10 @@
   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.svg" />
 <!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
+<a href="https://twitter.com/JashDesai_13">
+  <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.svg"/>
+<!--   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.gif"/> -->
+</a>
 <a href="https://instagram.com/_jade13._">
  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg"/>
 <!--   <img align="left" alt="Instagram" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->

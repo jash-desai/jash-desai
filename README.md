@@ -42,7 +42,7 @@
 <!--   <img align="left" alt="Discord" width="50" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/discord.gif" /> -->
 </a>
 
-<a href="https://www.facebook.com/jash.x.desai.13/">
+<a href="https://www.facebook.com/jash.13.desai/">
   <img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.svg" />
 <!--   <img align="left" alt="Facebook" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/facebook.gif" /> -->
 </a>

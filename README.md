@@ -81,14 +81,17 @@
 <a href="https://java.com/en/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/java-icon.svg" alt="dart" width="38"/>
 </a>
+<a href="https://flutter.dev">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/flutterio-icon.svg" alt="flutter" width="38"/>
+</a>
+<a href="https://html.spec.whatwg.org/">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/w3_html5-icon.svg" alt="HTML" width="38"/>
+</a>
 <a href="https://dart.dev">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="38"/>
 </a>
 <a href="https://firebase.google.com/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/firebase-icon.svg" alt="firebase" width="38"/>
-</a>
-<a href="https://flutter.dev">
-  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/flutterio-icon.svg" alt="flutter" width="38"/>
 </a>
 <a href="https://git-scm.com/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="38"/>

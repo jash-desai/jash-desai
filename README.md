@@ -29,7 +29,7 @@
 <!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
 
-<a href="https://twitter.com/JashDesai_13">
+<a href="https://twitter.com/jash13desai">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.svg"/>
 <!--   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.gif"/> -->
 </a>

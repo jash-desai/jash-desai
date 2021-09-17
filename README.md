@@ -119,6 +119,7 @@
 <!-- Spotify Flex - Now Playing - Acc. 02 -->
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 </br>
+
 <!-- Contribution Graph -->
 <a href="https://github.com/jash-desai">
   <img alt="Jash Desai's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" />

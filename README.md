@@ -29,7 +29,7 @@
 <!--   <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/linkedin.gif" /> -->
 </a>
 
-<a href="https://twitter.com/JashDesai_13">
+<a href="https://twitter.com/jash13desai">
   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.svg"/>
 <!--   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.gif"/> -->
 </a>
@@ -119,6 +119,7 @@
 <!-- Spotify Flex - Now Playing - Acc. 02 -->
 [![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 </br>
+
 <!-- Contribution Graph -->
 <a href="https://github.com/jash-desai">
   <img alt="Jash Desai's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" />

@@ -60,10 +60,13 @@
 </a>
 -->
 
+<!-- 
 <a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
   <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
-<!--   <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" /> -->
-</a>
+  <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" />
+</a> 
+-->
+
 <!-- Social Media handles -- End-->
 </br></br>
 
@@ -117,8 +120,9 @@
 <!-- Commit Streak -->
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" height="140" >
 
-<!-- Spotify Flex - Now Playing - Acc. 02 -->
-[![Spotify -](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
+<!-- Spotify Flex - Now Playing - Account 02 -->
+[![Spotify-Flex](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
+
 </br>
 
 <!-- Contribution Graph -->

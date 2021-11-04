@@ -122,7 +122,6 @@
 
 <!-- Spotify Flex - Now Playing - Account 02 -->  
 [![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
-
 </br>
 
 <!-- Contribution Graph -->

@@ -118,7 +118,7 @@
 <img align="right" width="120"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
 
 <!-- Commit Streak -->
-<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" width="330" height="140">
+<img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" width="325" height="140">
 
 <!-- Spotify Flex - Now Playing - Account 02 -->  
 [![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)

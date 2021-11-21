@@ -9,7 +9,7 @@
 <!--  -->
 
 <!-- Introduction Points with GIF -->
-<img align="right" width="250px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">
+<img align="right" height="225px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">
 
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" > `Here's my Intro:` 
 - 🔭  I’m currently working on <b>Flutter Projects.</b></br>

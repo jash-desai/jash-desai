@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<!--  -->
+<!-- idk srsly -->
 
 <!-- Introduction Points with GIF -->
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">

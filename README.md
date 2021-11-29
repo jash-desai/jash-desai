@@ -9,7 +9,7 @@
 </h1>
 
 <!-- idk srsly what to write here! -->
-
+<!-- tried the hello-gilbert gif but it has way too much of the transparent margin, so not gonna work! -->
 <!-- Introduction Points with GIF -->
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">
 

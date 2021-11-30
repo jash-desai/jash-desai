@@ -7,9 +7,8 @@
     <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash-desai" /></p>
   </a>
 </h1>
+<!-- Header Ends here! -->
 
-<!-- idk srsly what to write here! -->
-<!-- tried the hello-gilbert gif but it has way too much of the transparent margin, so not gonna work! -->
 <!-- Introduction Points with GIF -->
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">
 

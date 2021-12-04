@@ -143,8 +143,10 @@
 <!-- <a href="https://github.com/jash-desai/"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23db7093&aColor=%23ff91a4"></a> -->
 
 <a href="https://github.com/jash-desai">
-  <img align="middle"  width="94.5%" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
+  <img align="middle"  width="110%" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>
+<!-- 
 <a href="#top">
-  <img align="right" alt="Back To Top" height="35" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/BackToTop.gif">
+  <img align="right" alt="Back To Top" height="35" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/BackToTop_2.gif">
 </a>
+-->

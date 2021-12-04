@@ -1,4 +1,5 @@
 <!-- Intro Text -->
+<div id="top"></div>
 <h1 align="center"> Hey!👋🏻,  I'm... </br>
 <!-- The Name Card-->
   <a href="https://github.com/jash-desai">
@@ -132,13 +133,8 @@
 
 <!-- Contribution Graph -->
 <a href="https://github.com/jash-desai">
-  <img alt="Jash Desai's Contribution Graph" src="https://idk-what-this-thing-is.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" />
+  <img align="middle" alt="Jash Desai's Contribution Graph" src="https://idk-what-this-thing-is.herokuapp.com/graph?username=jash-desai&custom_title=Jash%20Desai's%20Contribution%20Graph&theme=dracula&hide_border=true&area=true&bg_color=282a36&color=ff4da6" />
 </a>
-</br>
-<!-- Specific Repo Template -->
-<!-- 
-[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=jash-desai&theme=dracula&hide_border=true&disable_animations=false&repo=jash-desai" alt="jash-desai" /></p>](github.com/jash-desai/jash-desai) 
--->
 
 <!-- ### Programmer's Quote of the Day: -->
 <!-- [![A bit of quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) -->
@@ -147,5 +143,8 @@
 <!-- <a href="https://github.com/jash-desai/"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23db7093&aColor=%23ff91a4"></a> -->
 
 <a href="https://github.com/jash-desai">
-  <img align="middle" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
+  <img align="middle"  width="94.5%" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
+</a>
+<a href="#top">
+  <img align="right" alt="Back To Top" height="35" src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/BackToTop.gif">
 </a>

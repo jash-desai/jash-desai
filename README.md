@@ -2,7 +2,7 @@
 <div id="top"></div>
 <h1 align="center"> Hey!👋🏻,  I'm... 
 <!-- The Name Card-->
-  <a href="https://github.com/jash-desai">
+  <a href="https://jash13desai.netlify.app/">
     <img src = "https://raw.githubusercontent.com/jash-desai/jash-desai/main/MyName.svg">
     <!-- Views Counter -->
     <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jash-desai&label=Profile%20views&color=db7093&style=plastic" alt="jash-desai" /></p>
@@ -15,13 +15,16 @@
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">
 
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" > `Here's my Intro:` 
-- 🔭  I’m currently working on <b>Flutter Projects.</b>
+- 🔭 I’m currently working on <b>Flutter Projects.</b>
 - 🌱 I’m currently learning <b>C++ and Web Dev.</b>
-- 🤔 I’m looking for help with <b>OpenSource and CP.</b>
 - 📫 Reach me anytime at <b>jash.13.desai@gmail.com</b>.
+- 🔖 Check out my Portfolio <a href ="jash13desai.netlify.app" target="_blank" />here</a>.
 - ✨ Here's my <a href="https://profile-summary-for-github.com/user/jash-desai" target="_blank" /> Profile Summary </a> have a look!
 - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a <a href="https://github.com/jash-desai" />•!!•</a>, it's definitely me!
 - 🎨 Experiment: You can checkout my NFTs <a href="https://opensea.io/jash13desai" target="_blank" />here</a>.
+
+<!-- Commented Outs -->
+<!-- - 🤔 I’m looking for help with <b>OpenSource and CP.</b> -->
 
 <!-- Extra GIFs -->
 <!-- 
@@ -142,7 +145,7 @@
 <!-- ### Prgrammer's Joke of the Day: -->
 <!-- <a href="https://github.com/jash-desai/"><img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula&hideBorder&textColor=%23db7093&aColor=%23ff91a4"></a> -->
 
-<a href="https://github.com/jash-desai">
+<a href="https://jash13desai.netlify.app">
   <img align="middle"  width="110%" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/bottom-footer.svg">
 </a>
 <!-- 

@@ -100,6 +100,9 @@
 <a href="https://html.spec.whatwg.org/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/w3_html5-icon.svg" alt="HTML" width="38"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/javascript-original.svg" alt="HTML" width="38"/>
+</a>
 <a href="https://dart.dev">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/dartlang-icon.svg" alt="dart" width="38"/>
 </a>

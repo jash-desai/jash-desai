@@ -112,11 +112,10 @@
 <a href="https://git-scm.com/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/git-scm-icon.svg" alt="git" width="38"/>
 </a>
-<!-- <a href="https://code.visualstudio.com/">
+<!-- <a href="https://code.visualstudio.com/"> 
   <img align="left" alt="LinkedIn" width="38px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/vs-code.webp" />
-  <!--   <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/visualstudio_code-icon.svg" alt="vs-code" width="40"/>  -->
-</a> -->
-
+     <img src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/visualstudio_code-icon.svg" alt="vs-code" width="40"/>
+</a>  -->
 <!-- Tech Stacks -- End -->
 </br></br>
  

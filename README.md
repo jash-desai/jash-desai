@@ -1,6 +1,6 @@
 <!-- Intro Text! -->
 <!--  -->
-<div id="top"></div>
+<!-- <div id="top"></div> -->
 <h1 align="center"> Hey!👋🏻,  I'm... 
 <!-- The Name Card-->
   <a href="https://jash13desai.netlify.app/">
@@ -13,25 +13,17 @@
 <!-- Body begins! -->
 
 <!-- Introduction Points with GIF -->
-<img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif">
-
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" > `Here's my Intro:` 
-- 🔭 I’m currently working on <b>Flutter Projects.</b>
-- 🌱 I’m currently learning <b>C++ and Web Dev.</b>
+<p align="center">
+<img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif" />
+  
+### <img align="right" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" /> `Here's my Intro:` 
+- 🔭 I’m currently working on <b>Flutter Project.</b>
+- 🌱 I’m currently learning <b>Web Dev.</b>
 - 📫 Reach me anytime at <b>jash.13.desai@gmail.com</b>.
 - 🔖 Check out my Portfolio <a href ="https://jash13desai.netlify.app" target="_blank" />here</a>.
 - ✨ Here's my <a href="https://profile-summary-for-github.com/user/jash-desai" target="_blank" /> Profile Summary </a> have a look!
-<!-- - 🎨 Experiment: You can checkout my NFTs <a href="https://opensea.io/jash13desai" target="_blank" />here</a>. -->
-
-<!-- Commented Outs -->
 <!-- - 🤔 I’m looking for help with <b>OpenSource and CP.</b> -->
-<!-- - ⚡ Fun fact: If you find an account with <a href ="https://raw.githubusercontent.com/jash-desai/jash-desai/main/Labyrinth.jpeg" />Labyrinth </a> and a <a href="https://github.com/jash-desai" />•!!•</a>, it's definitely me! -->
-
-<!-- Extra GIFs -->
-<!-- 
-<img align="right" width="250"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/doge.gif"> 
-<img align="right" width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif"> 
--->
+</p>
 
 <!-- Social Media handles -- Starts -->
 ### 🤝🏻 &ensp;  `Wanna Connect? I'm here:`
@@ -70,18 +62,13 @@
 </a>
 -->
 
-<!-- 
-<a href="https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9">
-  <img align="left" alt="Spotify" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.svg" />
-  <img align="left" alt="Spotify" width="45" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/spotify.gif" />
-</a> 
--->
-
 <!-- Social Media handles -- End-->
 </br></br>
 
 <!-- The Cat GIF -->
-<img align="right" width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif">
+<p align="center">
+<img width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif" />
+</p>
 
 <!-- Tech Stack -- Starts -->
 ### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" width="38px"> `Tech Stack:`
@@ -128,8 +115,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150" />
 
 <!-- Dog GIF -->
+<p align="center">
 <img align="right" width="120"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
-
+</p>
+  
 <!-- Commit Streak -->
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" width="325" height="140">
 

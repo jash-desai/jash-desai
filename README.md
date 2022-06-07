@@ -13,10 +13,9 @@
 <!-- Body begins! -->
 
 <!-- Introduction Points with GIF -->
-<p align="center">
 <img align="right" height="215px"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/hello.gif" />
   
-### <img align="right" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" width="38px" /> `Here's my Intro:` 
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/developer.gif" height="31px" /> `Here's my Intro:` 
 - 🔭 I’m currently working on <b>Flutter Project.</b>
 - 🌱 I’m currently learning <b>Web Dev.</b>
 - 📫 Reach me anytime at <b>jash.13.desai@gmail.com</b>.
@@ -61,17 +60,14 @@
   <img align="left" alt="Codeforces" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/codeforces.svg" />
 </a>
 -->
-
 <!-- Social Media handles -- End-->
 </br></br>
 
 <!-- The Cat GIF -->
-<p align="center">
-<img width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif" />
-</p>
+<img align="right" width="245"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/fox.gif" />
 
 <!-- Tech Stack -- Starts -->
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" width="38px"> `Tech Stack:`
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/bars.gif" height="31px"> `Tech Stack:`
 
 <a href="https://www.cprogramming.com/">
   <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets_languages/c-original.svg" alt="c" width="38"/>
@@ -107,7 +103,7 @@
 <!-- Tech Stacks -- End -->
 </br></br>
  
-### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/graph-up.gif" width="38px"> `GitHub Stats:`
+### <img align="left" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/graph-up.gif" height="31px"> `GitHub Stats:`
 <!-- Languages Summary -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jash-desai&show_icons=true&layout=compact&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150"/>
 
@@ -115,15 +111,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jash-desai&show_icons=true&theme=dracula&hide_border=true&disable_animations =false&locale=en" alt="jash-desai" height="150" />
 
 <!-- Dog GIF -->
-<p align="center">
 <img align="right" width="120"  src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/gifs/dog.gif">
-</p>
   
 <!-- Commit Streak -->
 <img align="left" src = "https://github-readme-streak-stats.herokuapp.com?user=jash-desai&theme=dracula&hide_border=true" width="325" height="140">
 
 <!-- Spotify Flex - Now Playing - Account 02 -->  
-[![Spotify Flex](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vvghoq1frj9jgqpgne20hkoo9&cover_image=true&theme=novatorem&bar_color=db709d&bar_color_cover=true)](https://open.spotify.com/user/vvghoq1frj9jgqpgne20hkoo9)
 </br>
 
 <!-- Contribution Graph -->

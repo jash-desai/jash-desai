@@ -36,7 +36,7 @@
 <!--   <img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/twitter.gif"/> -->
 </a>
 
-<a href="https://instagram.com/_jade13._">
+<a href="https://instagram.com/jash13desai">
  <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.svg"/>
 <!--   <img align="left" alt="Instagram" width="40" src="https://raw.githubusercontent.com/jash-desai/jash-desai/main/assets/instagram.gif" /> -->
 </a>
